@@ -22,11 +22,10 @@ title: Astrarium Блог
 author: Astrarium
 email: tiarasmur@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Здесь я пишу свои мысли обо всем понемногу. В основном о всяких своих увлечениях, 
-  а сюда входят программирование, геймдев, рисование и многое-многое другое.
+  Инди-блог о программировании видеоигр
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.astrarium.works" # the base hostname & protocol for your site, e.g. http://example.com
-domain: astrarium-works.github.io
+domain: blog.astrarium.works
 instagram_username: astrarium_arts
 twitter_username: AstrariumA
 
